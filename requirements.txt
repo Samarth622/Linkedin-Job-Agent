@@ -3,4 +3,5 @@ pandas
 requests 
 python-dotenv 
 jobspy
+discord
 webdriver-manager
