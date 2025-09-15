@@ -1,0 +1,6 @@
+selenium 
+pandas 
+requests 
+python-dotenv 
+jobspy
+webdriver-manager
